@@ -1,4 +1,6 @@
 {
-  "show_toast": false,
-  "text": "modded by TG: @mhXmods man"
+  "trebedit": {
+    "show_toast": true,
+    "text": "TrebEdit premium - by TG: @mhXmods"
+  }
 }
